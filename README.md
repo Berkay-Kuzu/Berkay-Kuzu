@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Berkay-Kuzu
-- 👀 I’m interested in HTML, CSS, Bootstrap, JS, DOM, AJAX, API, MongoDB and so forth.
-- 🌱 I’m currently learning JS.
+- 👀 I’m interested in HTML, CSS, Bootstrap, JS, DOM, AJAX, API, MongoDB, Node and so forth.
+- 🌱 I look forward to learning new skills every day.
 - 💞️ I’m looking to collaborate on web developers
 - 📫 How to reach me berkaykuzu95@gmail.com
 
