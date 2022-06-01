@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Berkay-Kuzu
-- 👀 I’m interested in HTML, CSS, Bootstrap, JS, DOM, AJAX, API, Mongo, Node and so forth.
+- 👀 I’m interested in Front-End and Back-End
 - 🌱 I look forward to learning new skills every day
 - 🌱I’m currently learning React and React Native.
 - 💞️ I’m looking to collaborate on web developers
