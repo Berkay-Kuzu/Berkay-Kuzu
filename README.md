@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Berkay-Kuzu
-- 👀 I’m interested in Front-End and Back-End
+- 👀 I’m interested in iOS Development
 - 🌱 I look forward to learning new skills every day
-- 🌱I’m currently learning React and React Native.
-- 💞️ I’m looking to collaborate on web developers
+- 🌱I’m currently learning Swift
+- 💞️ I’m looking to collaborate on app developers
 - 📫 How to reach me berkaykuzu95@gmail.com
 
 <!---
