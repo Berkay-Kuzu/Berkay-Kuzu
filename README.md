@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Berkay-Kuzu
-- 👀 I’m interested in iOS Development
+- 👀 I’m a iOS Development
 - 🌱 I look forward to learning new skills every day
-- 🌱I’m currently learning Swift
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on app developers
 - 📫 How to reach me berkaykuzu95@gmail.com
 
