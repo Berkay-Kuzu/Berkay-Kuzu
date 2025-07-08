@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Berkay-Kuzu
 - 👀 I’m an iOS Developer
 - 🌱 I look forward to learning new skills every day
-- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on app developers
 - 📫 How to reach me berkaykuzu95@gmail.com
 
